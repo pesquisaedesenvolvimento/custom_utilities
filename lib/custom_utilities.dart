@@ -24,6 +24,11 @@ export 'models/response_default_model.dart';
 export 'services/launch_url_service.dart';
 export 'services/share_service.dart';
 
+//Authentication
+export 'authentication/models/user_app_base_model.dart';
+export 'authentication/authentication_repository.dart';
+export 'authentication/exceptions/authentication_exceptions.dart';
+
 //Packages
 export 'package:intl/intl.dart';
 export 'package:dio/dio.dart';
