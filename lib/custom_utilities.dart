@@ -15,7 +15,13 @@ export 'logger/service/logger_service.dart';
 
 export 'bloc/default_state.dart';
 
+export 'models/key_value.dart';
+export 'services/launch_url_service.dart';
+export 'services/share_service.dart';
+
 //Packages
 export 'package:intl/intl.dart';
 export 'package:dio/dio.dart';
 export 'package:equatable/equatable.dart';
+export 'package:share/share.dart';
+export 'package:url_launcher/url_launcher.dart';
