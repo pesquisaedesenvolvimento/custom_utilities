@@ -1,7 +1,5 @@
 library custom_utilities;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'is_debug_mode.dart';
+export './ads/ads_config.dart';
+export './extensions/extension.dart';
