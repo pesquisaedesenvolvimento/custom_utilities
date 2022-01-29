@@ -13,9 +13,14 @@ export 'logger/models/logger_model.dart';
 export 'logger/repository/logger_repository.dart';
 export 'logger/service/logger_service.dart';
 
+//Bloc
 export 'bloc/default_state.dart';
 
+//Models
 export 'models/key_value.dart';
+export 'models/response_default_model.dart';
+
+//Services
 export 'services/launch_url_service.dart';
 export 'services/share_service.dart';
 
