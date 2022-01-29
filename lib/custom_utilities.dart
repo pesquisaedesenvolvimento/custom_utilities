@@ -30,3 +30,4 @@ export 'package:dio/dio.dart';
 export 'package:equatable/equatable.dart';
 export 'package:share/share.dart';
 export 'package:url_launcher/url_launcher.dart';
+export 'package:get_it/get_it.dart';
