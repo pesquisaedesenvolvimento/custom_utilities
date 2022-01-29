@@ -7,9 +7,6 @@ import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 
-import 'exceptions/authentication_exceptions.dart';
-import 'models/user_app_base_model.dart';
-
 /// {@template authentication_repository}
 /// Repository which manages user authentication.
 /// {@endtemplate}
