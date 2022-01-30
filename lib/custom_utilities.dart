@@ -6,6 +6,7 @@ export 'utils/is_debug_mode.dart';
 export 'utils/utils.dart';
 export 'utils/graphql_utils.dart';
 export 'device/service/device_info_service.dart';
+export 'http_client/remote_client_repository.dart';
 
 //Logger
 export 'logger/enums/logger_type_enum.dart';
