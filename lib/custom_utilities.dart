@@ -26,7 +26,7 @@ export 'services/share_service.dart';
 
 //Authentication
 export 'authentication/models/user_app_base_model.dart';
-export 'authentication/authentication_repository.dart';
+export 'authentication/custom_authentication_repository.dart';
 export 'authentication/exceptions/authentication_exceptions.dart';
 
 //Packages

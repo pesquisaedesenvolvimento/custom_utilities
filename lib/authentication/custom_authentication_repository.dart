@@ -10,9 +10,9 @@ import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 /// {@template authentication_repository}
 /// Repository which manages user authentication.
 /// {@endtemplate}
-class AuthenticationRepository {
+class CustomAuthenticationRepository {
   /// {@macro authentication_repository}
-  AuthenticationRepository({
+  CustomAuthenticationRepository({
     FirebaseAuth? firebaseAuth,
     GoogleSignIn? googleSignIn,
     FacebookAuth? facebookAuth,
